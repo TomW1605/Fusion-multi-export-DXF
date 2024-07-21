@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Thomas White",
+	"description":	{
+		"":	"Export selected sketches to DXF files"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
